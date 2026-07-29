@@ -1,0 +1,6 @@
+{
+  "name": "ComplaintScope AI - Copilote IA d'Intelligence des Plaintes",
+  "description": "Copilote IA d'intelligence des plaintes clients pour la finance, le risque et la conformité (NLP, classification, RAG, détection d'anomalies, analytics et alertes).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
